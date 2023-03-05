@@ -34,3 +34,4 @@ python main.py --input_dir test_img --style Hosoda
 # Contributing
 
 Create a pull request with your changes and assign it to [Sho](https://github.com/akiyamasho). Make sure to tag your commits using the [numpy commit guidelines](https://numpy.org/doc/1.16/dev/gitwash/development_workflow.html#writing-the-commit-message) for easier review.
+复制的代码。CartoonGAN，卡通gan
